@@ -3,10 +3,4 @@
 coverage
 docs/.vuepress/dist
 
-assets
-service
-404.html
-service-worker.js
-playground
-index.html
 .test-result-list.txt
