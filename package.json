@@ -76,7 +76,7 @@
     "eslint": "^7.0.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-es": "^3.0.0",
+    "eslint-plugin-es": "^3.0.1",
     "eslint-plugin-lodash-template": "file:.",
     "eslint-plugin-markdown": "^1.0.2",
     "eslint-visitor-keys": "^1.1.0",
